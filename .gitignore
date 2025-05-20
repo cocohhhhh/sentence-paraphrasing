@@ -1,0 +1,5 @@
+# Ignore finetuned model directory
+finetuned_paraphraser/
+
+# Ignore wandb directory
+wandb/
